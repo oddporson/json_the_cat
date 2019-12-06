@@ -19,5 +19,9 @@
   "homepage": "https://github.com/oddporson/json_the_cat#readme",
   "dependencies": {
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
   }
 }
